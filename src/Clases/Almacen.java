@@ -1,4 +1,5 @@
 package Clases;
+//codigo
 import java.util.ArrayList;
 public class Almacen {
     private ArrayList<Productos> listado;
