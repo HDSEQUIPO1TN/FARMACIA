@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package ejecutar;
-/ñññññ
+//ñññññ
 /**
  *
  * @author 1234
