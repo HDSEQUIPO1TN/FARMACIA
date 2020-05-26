@@ -6,7 +6,6 @@ public class Productos {
     int codigo;
     String cod_cat;
     int contenido;
-    String marca;
     String laboratorio;
     String fecha_prod;
     String fecha_venc;
@@ -106,5 +105,5 @@ public class Productos {
     public void setFecha_ingreso(String fecha_ingreso) {
         this.fecha_ingreso = fecha_ingreso;
     }
-
+//---
 }
